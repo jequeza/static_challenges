@@ -1,0 +1,21 @@
+.header {
+  background-color: #aa0000;
+  height: 4rem;
+  width: 100%;
+  color: white;
+}
+
+.subheader {
+  background-color: #333333;
+  height: 3rem;
+  width: 100%;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.login {
+  float: right;
+}
+
